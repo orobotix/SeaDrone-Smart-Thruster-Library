@@ -1,17 +1,12 @@
 ###############################################################
-# This is a library for the SeaDroneTM Smart Thruster Driver.
-# It allows to control up to 15 brushless motors from a single
-# serial port and provide real time feedback for the velocity,
-# current, voltage and temperature of each driver.
+# This basic example sets the speed for 4 thrusters and reads
+# feedback from them (voltage, current, RPM & temperature).
+# It also shows how to decode motor alarms and the method
+# to reset them.
 #
 # Designed specifically to work with the
 # SeaDroneTM Smart Thruster Breakout Board:
 # https://seadronepro.com/shop-seadrone/
-#
-# These motor drivers use the serial port to communicate,
-# so a total of 2 pins (TX and RX) are required as interface.
-# The open source breakout board is also compatible with most
-# USB-to-serial 3.3V adapters, to be plugged into any USB port.
 #
 # Author:   Carlos Garcia-Saura (@CarlosGS)
 # Copyright (C) 2017 SeaDroneTM (www.seadronepro.com)
@@ -52,7 +47,4 @@ except KeyboardInterrupt:
     print("Shutting down smart thruster library...")
 
 m.stop()
-
-
-
 

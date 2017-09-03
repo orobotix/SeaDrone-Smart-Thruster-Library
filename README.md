@@ -1,5 +1,5 @@
 
-# SeaDrone Smart Thruster Driver Library
+# SeaDrone Smart Thruster Library
 
 This library allows to control up to 15 brushless motors from a single serial port and provide real time feedback for the velocity, current, voltage and temperature of each driver.
 
@@ -15,9 +15,5 @@ This program is free software: you can redistribute it and/or modify it under th
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License along with this program. If not, see <http://www.gnu.org/licenses/>.
-
-Author: Carlos Garcia-Saura (@CarlosGS)
-
-Copyright (C) 2017 SeaDroneTM (<www.seadronepro.com>)
+Author: Carlos Garcia-Saura (@CarlosGS). Copyright (C) 2017 SeaDroneTM (<www.seadronepro.com>)
 
