@@ -15,5 +15,5 @@ This program is free software: you can redistribute it and/or modify it under th
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-_Author: Carlos Garcia-Saura (@CarlosGS). Copyright (C) 2017 SeaDroneTM (<www.seadronepro.com>)_
+_Author: Carlos Garcia-Saura (@CarlosGS). Copyright (C) 2017 SeaDroneTM (www.seadronepro.com)_
 
